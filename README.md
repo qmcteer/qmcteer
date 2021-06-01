@@ -7,7 +7,7 @@ and all things forecasting/prediction.
 - 🌱 I’m currently learning about logistic regression, random forest classification procedure, tree ensemble methods, the instrumental variable approach to causal
 inference, inverse probability weighting, and data visualization techniques in R. 
 
-- 💞️ I’m looking to collaborate on Kaggle competitions focused on classification issues using econometric and machine learning techniques in R.  
+- 💞️ I’m looking to collaborate on Kaggle competitions focused on classification issues using machine learning techniques in R.  
 
 - 📫 How to reach me: 
 Email: qmcteer1@student.gsu.edu 
